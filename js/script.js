@@ -34,9 +34,6 @@ btn.addEventListener('click',function() {
         alert.innerHTML=msg
    }
    
-        
-   
-
 } 
  
   
